@@ -1,4 +1,4 @@
-# Kidera and Atchley factors in one place.
+# Tables of Kidera and Atchley factors
 
 Kidera factors:
 (free paper with kidera factors table) http://www.jbsdonline.com/mc_images/category/4308/14-scheraga_jbsd_28_4.pdf
