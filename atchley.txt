@@ -1,4 +1,4 @@
-Amino acid	Factor I	Factor II	Factor III	Factor IV	Factor V
+Amino.acid	Factor.I	Factor.II	Factor.III	Factor.IV	Factor.V
 A	−0.591	−1.302	−0.733	1.570	−0.146
 C	−1.343	0.465	−0.862	−1.020	−0.255
 D	1.050	0.302	−3.656	−0.259	−3.242
