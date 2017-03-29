@@ -1,8 +1,12 @@
 # Tables of amino acid properties, Kidera factors and Atchley factors.
 
+
 ## Amino acid properties
 
 From here: https://github.com/mikessh/vdjtools/blob/master/src/main/resources/profile/aa_property_table.txt
+
+References: PMID:18946038, PMID:14872534, PMID:16301309, http://arxiv.org/pdf/1502.03136v2.pdf
+
 
 ## Kidera factors
 Free paper with kidera factors table: http://www.jbsdonline.com/mc_images/category/4308/14-scheraga_jbsd_28_4.pdf
