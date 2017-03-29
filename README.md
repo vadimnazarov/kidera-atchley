@@ -1,7 +1,11 @@
-# Tables of Kidera and Atchley factors
+# Tables of amino acid properties, Kidera factors and Atchley factors.
 
-Kidera factors:
-(free paper with kidera factors table) http://www.jbsdonline.com/mc_images/category/4308/14-scheraga_jbsd_28_4.pdf
+## Amino acid properties
+
+From here: https://github.com/mikessh/vdjtools/blob/master/src/main/resources/profile/aa_property_table.txt
+
+## Kidera factors
+Free paper with kidera factors table: http://www.jbsdonline.com/mc_images/category/4308/14-scheraga_jbsd_28_4.pdf
 
 Copy this one-line code to make a `kidera` dataframe in R with Kidera factors:
 ```r
@@ -9,7 +13,8 @@ kidera = t(data.frame(lapply(strsplit("A,-1.56,-1.67,-0.97,-0.27,-0.93,-0.78,-0.
 ```
 
 
-Atchley factors:
+## Atchley factors
+Atchley factors paper:
 http://www.pnas.org/content/102/18/6395.full
 
 
